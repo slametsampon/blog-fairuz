@@ -1,14 +1,14 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Web Template',
+  title: 'Blog Fairuz',
   author: 'Slamet-Sam',
-  headerTitle: 'WebTemplate',
+  headerTitle: 'BlogFairuz',
   description: 'Website Template',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://agro-mulya.vercel.app',
   siteRepo: 'https://github.com/slametsampon/next-contentlayer',
-  siteLogo: '/static/images/logo.png',
+  siteLogo: '/static/images/biotechnology-51x51.png',
   socialBanner: '/static/images/twitter-card.png',
   mastodon: 'https://mastodon.social/@mastodonuser',
   email: 'address@yoursite.com',
